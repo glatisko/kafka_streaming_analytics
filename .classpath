@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/glatisko/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.9.4/498bbc3b94f566982c7f7c6d4d303fce365529be/jackson-databind-2.9.4.jar" sourcepath="C:/Users/glatisko/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.9.4/36aa90e99b8c73d43e66daadf50a96b83cbd09d3/jackson-databind-2.9.4-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/glatisko/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/2.0.0.RELEASE/c89896a469ecf92996ecba40755919896ace5470/spring-boot-autoconfigure-2.0.0.RELEASE.jar" sourcepath="C:/Users/glatisko/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/2.0.0.RELEASE/a61ac639366cc804c155f86a248f933321a0bb07/spring-boot-autoconfigure-2.0.0.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
